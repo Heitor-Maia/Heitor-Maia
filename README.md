@@ -1,8 +1,12 @@
-<h1 align="left">👋🏾 Olà, Meu nome é Heitor e seja bem vindo(a) ao meu GitHub</h1>
+<h1 align="left">👋🏾 Olà, Meu nome é Heitor</h1>
 
 ###
 
-<h2 align="left">My Stats</h2>
+<p align="left">Olá, atualmente sou estudante de Ciencia da Computação na Universidade Federal do Espirito Santo (UFES)<br>Estou buscando uma oportunidade no Mercado de Trabalho</p>
+
+###
+
+<h2 align="left">My Stats GitHub</h2>
 
 ###
 
@@ -37,23 +41,23 @@
 
 ###
 
-<h2 align="left">Social Medias</h2>
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejE2aHNhbmxqcXo0dDBuNTdxd21seThrMjBwZHlqejNseHZwMG56eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejE2aHNhbmxqcXo0dDBuNTdxd21seThrMjBwZHlqejNseHZwMG56eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<h2 align="left">Social Medias</h2>
 
 ###
 
 <div align="left">
   <a href="https://instagram.com/heitormaia18" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/heitormaia-/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://mailto:santosmaiaheitor43@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
 </div>
 
