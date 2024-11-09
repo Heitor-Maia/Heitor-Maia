@@ -59,9 +59,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Heitor-Maia/Heitor-Maia/output/snake.svg" alt="Snake animation" />
 
 ###
-
