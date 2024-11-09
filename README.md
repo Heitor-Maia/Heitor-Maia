@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, atualmente sou estudante de Ciencia da Computação na Universidade Federal do Espirito Santo (UFES)<br>Estou buscando uma oportunidade no Mercado de Trabalho</p>
+<p align="left">Apaixonado por tecnologia, sou estudante de Ciência da Computação na UFES. Minhas principais habilidades são JavaScript, HTML5, CSS3 e Python. Busco oportunidades para colaborar em projetos inovadores e fazer a diferença no mundo da programação.</p>
 
 ###
 
@@ -63,6 +63,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Heitor-Maia/Heitor-Maia/output/snake.svg" alt="Snake animation" />
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heitor-Maia/Heitor-Maia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Heitor-Maia/Heitor-Maia/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
