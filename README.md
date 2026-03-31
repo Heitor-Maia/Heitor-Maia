@@ -1,64 +1,69 @@
-<h1 align="left">👋🏾 Olà, Meu nome é Heitor</h1>
+<h1 align="center">Olá, eu sou Heitor Maia 👋</h1>
 
-###
+<p align="center">
+  Estudante de Ciência da Computação na UFES <br>
+  Em evolução constante na programação, construindo projetos e fortalecendo minha base em desenvolvimento.
+</p>
 
-<p align="left">Apaixonado por tecnologia, sou estudante de Ciência da Computação na UFES. Minhas principais habilidades são JavaScript, HTML5, CSS3 e Python. Busco oportunidades para colaborar em projetos inovadores e fazer a diferença no mundo da programação.</p>
-
-###
-
-<h2 align="left">My Stats GitHub</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heitor-Maia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Heitor-Maia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heitor-Maia&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">TECHS</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
-</div>
-
-###
-
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejE2aHNhbmxqcXo0dDBuNTdxd21seThrMjBwZHlqejNseHZwMG56eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
-<h2 align="left">Social Midias</h2>
-
-###
-
-<div align="left">
-  <a href="https://instagram.com/heitormaia18" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
+<p align="center">
+  <a href="SEU_LINK_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/heitormaia-/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://mailto:santosmaiaheitor43@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante de **Ciência da Computação na UFES**
+- 📚 Focado em fortalecer minha base em **programação, algoritmos e desenvolvimento**
+- 🚀 Utilizo este GitHub para registrar minha evolução por meio de projetos, estudos e práticas
+- 💼 Busco oportunidades para aplicar meus conhecimentos, ganhar experiência e evoluir como desenvolvedor
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Atividade no GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Heitor-Maia&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=Heitor-Maia&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor-Maia&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Este perfil reúne projetos, estudos e aprendizados que representam minha evolução na programação. 
+Também é um espaço para mostrar minhas habilidades na prática e acompanhar meu desenvolvimento como futuro profissional da área.
+
+---
+
+## 📌 Repositórios em destaque
+
+Aqui vou organizar e destacar os projetos que melhor representam minha evolução e minhas habilidades.
+
+---
+
+<p align="center">
+  Obrigado por visitar meu perfil.
+</p>
