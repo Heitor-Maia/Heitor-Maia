@@ -41,12 +41,11 @@
 ## 📈 Atividade no GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Heitor-Maia&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://streak-stats.demolab.com?user=Heitor-Maia&theme=tokyonight&hide_border=true" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=Heitor-Maia&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor-Maia&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-stats-extended.vercel.app/api?username=Heitor-Maia&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
 </p>
 
 ---
